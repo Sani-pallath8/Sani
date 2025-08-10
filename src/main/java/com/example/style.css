@@ -1,0 +1,17 @@
+/* Basic styling for Virtual Menu Generator */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #ff6600;
+}
+
+p {
+    font-size: 18px;
+    color: #333;
+}
