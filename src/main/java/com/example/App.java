@@ -5,3 +5,5 @@ public class App {
         System.out.println("Virtual Menu Generator project started!");
     }
 }
+
+Initial Java file for project start
